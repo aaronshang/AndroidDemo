@@ -1,2 +1,5 @@
 # AndroidDemo
-Android Apk &amp; JNI
+Android Apk & JNI
+
+1. so-write file
+
